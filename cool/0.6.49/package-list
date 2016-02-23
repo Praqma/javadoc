@@ -1,0 +1,16 @@
+net.praqma.clearcase
+net.praqma.clearcase.api
+net.praqma.clearcase.changeset
+net.praqma.clearcase.cleartool
+net.praqma.clearcase.command
+net.praqma.clearcase.container
+net.praqma.clearcase.exceptions
+net.praqma.clearcase.interfaces
+net.praqma.clearcase.ucm.entities
+net.praqma.clearcase.ucm.utils
+net.praqma.clearcase.ucm.utils.filters
+net.praqma.clearcase.ucm.view
+net.praqma.clearcase.util
+net.praqma.clearcase.util.setup
+net.praqma.cli
+net.praqma.cool
